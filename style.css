@@ -1,0 +1,35 @@
+table {
+    font-size: 12px;
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+    border-bottom: black;
+    border-left: green;
+    border: 3px dotted blue;
+}
+
+.tabela .name {
+    font-size: 30px;
+    text-decoration: lightblue;
+}
+
+body {
+    font-size: 12px;
+    background-color: whitesmoke;
+}
+
+#pizza {
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: underline;
+    background-image: url("pizza.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    background-attachment: fixed;
+    background-size: 50%;
+}
+
+#button {
+    padding: 10px 30px 2px 5px;
+}
